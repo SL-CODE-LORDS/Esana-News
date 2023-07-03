@@ -138,7 +138,7 @@ await api.comments('98691')
 ## get news list
 
 ```ts
-await api.latest_id()
+await api.list()
 ```
 ```ts
 {
