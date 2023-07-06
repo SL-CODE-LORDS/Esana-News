@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/SL-CODE-LORDS/Esana-News/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/SL-CODE-LORDS/Esana-News/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/SL-CODE-LORDS/Esana-News.svg)](https://github.com/SL-CODE-LORDS/Esana-News/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SL-CODE-LORDS/Esana-News.svg)](https://github.com/SL-CODE-LORDS/Esana-News/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
