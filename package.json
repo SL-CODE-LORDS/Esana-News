@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/esana-news",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "unofficial scrap for esana",
   "main": "index.js",
   "scripts": {
