@@ -64,18 +64,19 @@ await api.news('98691')
 
 ```ts
 {
-  code: 200,
-  code_creator: { name: 'Ravindu_Manoj', github: '@ravindu01manoj' },
-  results: {
-    news_url: 'https://www.helakuru.lk/esana/98691',
-    news_id: '98691',
-    TITLE: 'ලිට්‍රෝ ගෑස් මිල හෙට සිට අඩු වෙයි‍',
-    DESCRIPTION: 'ලිට්‍රෝ ගෑස් මිල හෙට (04) මධ්‍යම රාත්‍රීයේ සිට අඩු කිරීමට කටයුතු කරන බව එහි සභාපති මුදිත පීරිස් පවසනවා.',
-    COVER: 'https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/litro-gas[1].jpg',
-    URL: 'https://www.helakuru.lk/esana/98691',
-    PUBLISHED: '2023-07-03 11:35:39',
-    sub_img: []
-  }
+  news_url: 'https://www.helakuru.lk/esana/98967',
+  news_id: 98967,
+  TITLE: 'ශ්‍රී ලංකා රුපියල ආසියාවේ දුර්වලතම මුදල් ඒකකය බවට පත් වී ඇති බව Bloomberg වාර්තා කරයි',
+  DESCRIPTION: ' ',
+  COVER: 'https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/dollar-rupee.jpg',
+  URL: 'https://www.helakuru.lk/esana/98967',
+  PUBLISHED: '2023-07-25 19:16:49',
+  sub_img: [],
+  full_news: 'මේ වසරේ මුල් භාගය තුළ ආසියාවේ හොඳම ක්‍රියාකාරීම මුදල් ඒකකය බවට පත්වූ ශ්‍රී ලංකා රුපියල, මේ වන විට ආසියාවේ දුර්වලතම මුදල් ඒකකය බවට පවත්ව ඇති බව Bloomberg වෙබ් අඩවිය වාර්තා කර තිබෙනවා.\n' +
+    '\n' +
+    'ඒ අනුව එම වෙබ් අඩවිය පෙන්වා දෙන්නේ අඛණ්ඩව දින 14 ක කාලයක් තුළ රුපියල 6% කින් අවප්‍රමාණයවී ඇති බවයි.\n' +
+    '\n' +
+    'පොලී අනුපාත කප්පාදුව සහ ආනයන පාලනයන් ලිහිල් කිරීම හේතුවෙන් තවදුරටත් රුපියල අවප්‍රමාණය විය හැකි බවත් වසර අවසානය වන විට ඩොලරය රුපියල් 355 ක් දක්වා ඉහළ යනු ඇති බවත් එම වෙබ් අඩවිය වැඩිදුරටත් සඳහන් කර තිබෙනවා.'
 }
 ```
 ## get latest news id
